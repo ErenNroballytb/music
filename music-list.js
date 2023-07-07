@@ -38,4 +38,34 @@ let allMusic = [
     img: "Hồi Ức Ta Đã Yêu Mix 8D",
     src: "Hồi Ức Ta Đã Yêu Mix 8D"
   },
+  {
+    name: "Hạnh Phúc Đó Em Không Có Mix 8D",
+    artist: "Hoàng Ly,Eren Mix 8D",
+    img: "Hạnh Phúc Đó Em Không Có Mix 8D",
+    src: "Hạnh Phúc Đó Em Không Có Mix 8D"
+  },
+  {
+    name: "Thế Thái Mix 8D",
+    artist: "Hương Ly,Eren Mix 8D",
+    img: "Thế Thái Mix 8D",
+    src: "Thế Thái Mix 8D"
+  },
+  {
+    name: "Tướng Quân Mix 8D",
+    artist: "Nhật Phong,Eren Mix 8D",
+    img: "Tướng Quân Mix 8D",
+    src: "Tướng Quân Mix 8D"
+  },
+   {
+    name: "Pháo Hồng Mix 8D",
+    artist: "Đạt Long Vinh,Eren Mix 8D",
+    img: "Pháo Hồng Mix 8D",
+    src: "Pháo Hồng Mix 8D"
+  },
+  {
+    name: "Hoa Cưới Mix 8D",
+    artist: "Đạt Long Vinh,Eren Mix 8D",
+    img: "Hoa Cưới Mix 8D",
+    src: "Hoa Cưới Mix 8D"
+  },
 ];
