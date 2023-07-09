@@ -68,4 +68,16 @@ let allMusic = [
     img: "Hoa Cưới Mix 8D",
     src: "Hoa Cưới Mix 8D"
   },
+  {
+    name: "Bên Trên Tầng Lầu Mix 8D",
+    artist: "Tăng Duy Tân,Eren Mix 8D",
+    img: "Bên Trên Tầng Lầu Mix 8D",
+    src: "Bên Trên Tầng Lầu Mix 8D"
+  },
+  {
+    name: "Cứu Vãn Kịp Không Mix 8D",
+    artist: "Vương Anh Tú x AnhVu,Eren Mix 8D",
+    img: "Cứu Vãn Kịp Không Mix 8D",
+    src: "Cứu Vãn Kịp Không Mix 8D"
+  },
 ];
