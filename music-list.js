@@ -80,4 +80,58 @@ let allMusic = [
     img: "Cứu Vãn Kịp Không Mix 8D",
     src: "Cứu Vãn Kịp Không Mix 8D"
   },
+  {
+    name: "Hôm Nay Em Cưới Rồi Mix 8D",
+    artist: "Khải Đăng,Eren Mix 8D",
+    img: "Hôm Nay Em Cưới Rồi Mix 8D",
+    src: "Hôm Nay Em Cưới Rồi Mix 8D"
+  },
+  {
+    name: "Đoạn Tuyệt Nàng Đi Mix 8D",
+    artist: "Phát Huy T4,Eren Mix 8D",
+    img: "Đoạn Tuyệt Nàng Đi Mix 8D",
+    src: "Đoạn Tuyệt Nàng Đi Mix 8D"
+  },
+  {
+    name: "Lỡ Yêu Người Đậm Sâu Mix 8D",
+    artist: "Linh Hương LUZ,Eren Mix 8D",
+    img: "Lỡ Yêu Người Đậm Sâu Mix 8D",
+    src: "Lỡ Yêu Người Đậm Sâu Mix 8D"
+  },
+  {
+    name: "Anh Chỉ Là Người Thay Thế Mix 8D",
+    artist: "MR Siro,Eren Mix 8D",
+    img: "Anh Chỉ Là Người Thay Thế Mix 8D",
+    src: "Anh Chỉ Là Người Thay Thế Mix 8D"
+  },
+  {
+    name: "Hạt Mứa Vương Vấn Mix 8D",
+    artist: "Phan Duy Anh,Eren Mix 8D",
+    img: "Hạt Mứa Vương Vấn Mix 8D",
+    src: "Hạt Mứa Vương Vấn Mix 8D"
+  },
+  {
+    name: "Không Đợi Được Hoa Nở Mix 8D",
+    artist: "Phó Mộng Đồng,Eren Mix 8D",
+    img: "Không Đợi Được Hoa Nở Mix 8D",
+    src: "Không Đợi Được Hoa Nở Mix 8D"
+  },
+  {
+    name: "Hoa Tàn Tình Tan Mix 8D",
+    artist: "Giang Jolle,Eren Mix 8D",
+    img: "Hoa Tàn Tình Tan Mix 8D",
+    src: "Hoa Tàn Tình Tan Mix 8D"
+  },
+  {
+    name: "Bật Tình Yêu Lên Mix 8D",
+    artist: "Tăng Duy Tân x Hòa Minzy,Eren Mix 8D",
+    img: "Bật Tình Yêu Lên Mix 8D",
+    src: "Bật Tình Yêu Lên Mix 8D"
+  },
+  {
+    name: "Biết Tìm Đâu Mix 8D",
+    artist: "Tiến Tới,Eren Mix 8D",
+    img: "Biết Tìm Đâu Mix 8D",
+    src: "Biết Tìm Đâu Mix 8D"
+  },
 ];
