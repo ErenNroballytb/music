@@ -134,4 +134,22 @@ let allMusic = [
     img: "Biết Tìm Đâu Mix 8D",
     src: "Biết Tìm Đâu Mix 8D"
   },
+  {
+    name: "Buồn Của Anh Lofi Mix 8D",
+    artist: "Đạt G,Eren Mix 8D",
+    img: "Buồn Của Anh Lofi Mix 8D",
+    src: "Buồn Của Anh Lofi Mix 8D"
+  },
+  {
+    name: "Yêu Thật Khó Xóa Thật Đau Lofi Mix 8D",
+    artist: "Trương Khải Minh,Eren Mix 8D",
+    img: "Yêu Thật Khó Xóa Thật Đau Lofi Mix 8D",
+    src: "Yêu Thật Khó Xóa Thật Đau Lofi Mix 8D"
+  },
+  {
+    name: "Quá Khứ Anh Không Thể Nào Quên Lofi Mix 8D",
+    artist: "Dương Minh Tuấn,Eren Mix 8D",
+    img: "Quá Khứ Anh Không Thể Nào Quên Lofi Mix 8D",
+    src: "Quá Khứ Anh Không Thể Nào Quên Lofi Mix 8D"
+  },
 ];
