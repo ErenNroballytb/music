@@ -152,4 +152,10 @@ let allMusic = [
     img: "Quá Khứ Anh Không Thể Nào Quên Lofi Mix 8D",
     src: "Quá Khứ Anh Không Thể Nào Quên Lofi Mix 8D"
   },
+  {
+    name: "Sự Thật Đã Bỏ Quên Mix 8D",
+    artist: "Hà Duy Thái,Eren Mix 8D",
+    img: "Sự Thật Đã Bỏ Quên Mix 8D",
+    src: "Sự Thật Đã Bỏ Quên Mix 8D"
+  },
 ];
