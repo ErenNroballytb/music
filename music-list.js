@@ -176,4 +176,64 @@ let allMusic = [
     img: "Ép Duyên Mix 8D",
     src: "Ép Duyên Mix 8D"
   },
+  {
+    name: "Em Biết Anh Không Yêu Em Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Em Biết Anh Không Yêu Em Mix 8D",
+    src: "Em Biết Anh Không Yêu Em Mix 8D"
+  },
+  {
+    name: "Quẻ Bói Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Quẻ Bói Mix 8D",
+    src: "Quẻ Bói Mix 8D"
+  },
+  {
+    name: "Tinh Vệ Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Tinh Vệ Mix 8D",
+    src: "Tinh Vệ Mix 8D"
+  },
+  {
+    name: "Light It Up x Rise Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "TLight It Up x Rise Mix 8D",
+    src: "Light It Up x Rise Mix 8D"
+  },
+  {
+    name: "Bảo Bối Đang Làm Gì Đó Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Bảo Bối Đang Làm Gì Đó Mix 8D",
+    src: "Bảo Bối Đang Làm Gì Đó Mix 8D"
+  },
+  {
+    name: "The Hills Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "The Hills Mix 8D",
+    src: "The Hills Mix 8D"
+  },
+  {
+    name: "Hồi Tâm Chuyển Ý Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Hồi Tâm Chuyển Ý Mix 8D",
+    src: "Hồi Tâm Chuyển Ý Mix 8D"
+  },
+  {
+    name: "Từ Cửu Môn Hồi Ức Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Từ Cửu Môn Hồi Ức Mix 8D",
+    src: "Từ Cửu Môn Hồi Ức Mix 8D"
+  },
+  {
+    name: "Đáy Biển Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Đáy Biển Mix 8D",
+    src: "Đáy Biển Mix 8D"
+  },
+  {
+    name: "Vây Giữ Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Vây Giữ Mix 8D",
+    src: "Vây Giữ Mix 8D"
+  },
 ];
