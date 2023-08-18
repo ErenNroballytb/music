@@ -171,12 +171,6 @@ let allMusic = [
     src: "Em Là Ai Mix 8D"
   },
   {
-    name: "EDM TIK TOK Mix 8D",
-    artist: "EDM TIK TOK Mix 8D,Eren Mix 8D",
-    img: "EDM TIK TOK Mix 8D",
-    src: "EDM TIK TOK Mix 8D"
-  },
-  {
     name: "Ép Duyên Mix 8D",
     artist: "Long Nón Lá,Eren Mix 8D",
     img: "Ép Duyên Mix 8D",
