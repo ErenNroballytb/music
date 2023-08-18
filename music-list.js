@@ -158,4 +158,16 @@ let allMusic = [
     img: "Sự Thật Đã Bỏ Quên Mix 8D",
     src: "Sự Thật Đã Bỏ Quên Mix 8D"
   },
+  {
+    name: "Yêu 5 Mix 8D",
+    artist: "Rhymastic,Eren Mix 8D",
+    img: "Yêu 5 Mix 8D",
+    src: "Yêu 5 Mix 8D"
+  },
+  {
+    name: "Em Là Ai Mix 8D",
+    artist: "Rhymastic,Eren Mix 8D",
+    img: "Em Là Ai Mix 8D",
+    src: "Em Là Ai Mix 8D"
+  },
 ];
