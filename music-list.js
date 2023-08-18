@@ -236,4 +236,10 @@ let allMusic = [
     img: "Vây Giữ Mix 8D",
     src: "Vây Giữ Mix 8D"
   },
+   {
+    name: "Hôm Nay Em Cưới Rồi LOFI Mix 8D",
+    artist: "Khải Đăng,Eren Mix 8D",
+    img: "Hôm Nay Em Cưới Rồi LOFI Mix 8D",
+    src: "Hôm Nay Em Cưới Rồi LOFI Mix 8D"
+  },
 ];
