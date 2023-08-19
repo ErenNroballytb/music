@@ -242,4 +242,28 @@ let allMusic = [
     img: "Hôm Nay Em Cưới Rồi LOFI Mix 8D",
     src: "Hôm Nay Em Cưới Rồi LOFI Mix 8D"
   },
+  {
+    name: "Em Nguyện Làm Người Bình Thường Bên Anh Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Em Nguyện Làm Người Bình Thường Bên Anh Mix 8D",
+    src: "Em Nguyện Làm Người Bình Thường Bên Anh Mix 8D"
+  },
+  {
+    name: "Mong Một Ngày Nhớ Đến Em Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Mong Một Ngày Nhớ Đến Em Mix 8D",
+    src: "Mong Một Ngày Nhớ Đến Em Mix 8D"
+  },
+  {
+    name: "Du Sơn Luyến Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Du Sơn Luyến Mix 8D",
+    src: "Du Sơn Luyến Mix 8D"
+  },
+  {
+    name: "Một Đường Hoa Nở Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Một Đường Hoa Nở Mix 8D",
+    src: "Một Đường Hoa Nở Mix 8D"
+  },
 ];
