@@ -266,4 +266,10 @@ let allMusic = [
     img: "Một Đường Hoa Nở Mix 8D",
     src: "Một Đường Hoa Nở Mix 8D"
   },
+  {
+    name: "Beat Tổng Hợp Mix 8D",
+    artist: "Eren Mix 8D",
+    img: "Beat Tổng Hợp Mix 8D",
+    src: "Beat Tổng Hợp Mix 8D"
+  },
 ];
