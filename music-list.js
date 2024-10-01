@@ -272,4 +272,10 @@ let allMusic = [
     img: "Beat Tổng Hợp Mix 8D",
     src: "Beat Tổng Hợp Mix 8D"
   },
+  {
+    name: "Chưa Kịp Nói Lời Yêu Anh Lofi",
+    artist: "Eren Mix 8D",
+    img: "Chưa Kịp Nói Lời Yêu Em Lofi",
+    src: "Chưa Kịp Nói Lời Yêu Anh Lofi"
+  },
 ];
